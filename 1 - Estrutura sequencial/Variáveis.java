@@ -4,11 +4,11 @@ public class Variáveis {
         double num = 10.5;
         boolean teste = true;
         String nome = "Maria";
-        System.out.println("" + idade + " " + num + " " + teste + " " + nome);
+        System.out.println(idade + " " + num + " " + teste + " " + nome);
         int a = 2;
         int b = 3;
         int c = 2 + 3;
-        System.out.println("" + a + ", " + b + ", " + c);
+        System.out.println(a + ", " + b + ", " + c);
     }
 }
 /*int, números inteiros

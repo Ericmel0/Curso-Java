@@ -11,19 +11,26 @@ public class saidaEntradaDeDados {
         //para unir variáveis e strings se usa +
         System.out.println("eu tenho " + a + " anos");
 
-        //Entrada de dados string
-        String x;
-        Scanner sc = new Scanner(System.in);
-        x = sc.next();
-
-
-        System.out.println(x);
+//        Entrada de dados string de linha única
+//        String b;
+//        Scanner sc = new Scanner(System.in);
+//        b = sc.next(); o Sc.next lê apenas uma palavra
+//        System.out.println(b);
 
         //Entrada de dados int
-        int z;
-        z = sc.nextInt();
-        System.out.println(z);
+        int c;
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Digite sua idade");
+        c = sc.nextInt();
+        sc.nextLine();
+        System.out.println("sua idade é " + c + " anos");
 
+
+        //sc.nextLine(); lê mais de uma palavra,
+        // permitindo espaços e números mas lendo tudo como strings
+        String d;
+        d = sc.nextLine();
+        System.out.println(d);
         sc.close();
     }
 }
