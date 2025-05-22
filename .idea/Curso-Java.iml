@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/1 - Estrutura sequencial" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2 - Estrutura condicional" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/3 - Estrutura repetitiva" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Orientação a objetos" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
