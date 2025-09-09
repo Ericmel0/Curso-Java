@@ -6,8 +6,12 @@
       <sourceFolder url="file://$MODULE_DIR$/1 - Estrutura sequencial" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/2 - Estrutura condicional" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/3 - Estrutura repetitiva" isTestSource="false" />
+<<<<<<< HEAD
       <sourceFolder url="file://$MODULE_DIR$/4 - Comportamento de memória" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exercicio" isTestSource="false" />
+=======
+      <sourceFolder url="file://$MODULE_DIR$/Orientação a objetos" isTestSource="false" />
+>>>>>>> 2b5a38ce8fc7dae536c2d36812bb30afb6680766
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
